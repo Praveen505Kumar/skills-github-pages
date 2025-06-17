@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: i am Praveen Welcome to my blog!
 ---
