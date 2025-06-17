@@ -7,21 +7,9 @@ Here are a few common elements:
 
 * Item one
 * Item two
-    * Sub-item A
-    * Sub-item B
+    * Sub-item A  <-- Make sure these are standard spaces
+    * Sub-item B  <-- Make sure these are standard spaces
 
 You can also make text *italic* or ~~strikethrough~~.
 
 Here's a [link to Google](https://www.google.com).
-
-```
-This is a code block.
-It preserves formatting.
-```
-
-## A Smaller Heading
-
-> This is a blockquote.
-> It's great for citations.
-
----
